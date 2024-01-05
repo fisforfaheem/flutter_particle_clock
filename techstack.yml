@@ -1,7 +1,8 @@
 repo_name: fisforfaheem/flutter_particle_clock
 report_id: ebf0b6d6665f4a8624519525be64354e
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-10T07:53:09+00:00'
+timestamp: '2024-01-05T08:58:41+00:00'
 requested_by: fisforfaheem
 provider: github
 branch: master
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/fisforfaheem/flutter_particle_clock
   detection_source: Repo Metadata
 - name: C++
   description: Has imperative, object-oriented and generic programming features, while
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/fisforfaheem/flutter_particle_clock
   detection_source: Repo Metadata
 - name: Dart
   description: A new web programming language with libraries, a virtual machine, and
@@ -35,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1646/Twitter-02.png
+  detection_source_url: https://github.com/fisforfaheem/flutter_particle_clock
   detection_source: Repo Metadata
 - name: Kotlin
   description: Statically typed Programming Language targeting JVM and JavaScript
@@ -44,6 +48,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/3750/pCfEzr6L.png
+  detection_source_url: https://github.com/fisforfaheem/flutter_particle_clock
   detection_source: Repo Metadata
 - name: Objective-C
   description: The primary programming language you use when writing software for
@@ -54,6 +59,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1008/xcode.png
+  detection_source_url: https://github.com/fisforfaheem/flutter_particle_clock
   detection_source: Repo Metadata
 - name: Swift
   description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
@@ -64,6 +70,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1009/tuHsaI2U.png
+  detection_source_url: https://github.com/fisforfaheem/flutter_particle_clock
   detection_source: Repo Metadata
 - name: Android SDK
   description: An SDK that provides you the API libraries and developer tools necessary
@@ -75,7 +82,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png
-  detection_source_url: android/app/build.gradle
+  detection_source_url: https://github.com/fisforfaheem/flutter_particle_clock/blob/master/android/app/build.gradle
   detection_source: android/app/build.gradle
   last_updated_by: Mickel
   last_updated_on: 2020-01-16 19:36:38.000000000 Z
@@ -88,6 +95,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Cross-Platform Mobile Development
   image_url: https://img.stackshare.io/service/7180/flutter-mark-square-100.png
+  detection_source_url: https://github.com/fisforfaheem/flutter_particle_clock/blob/master/pubspec.yaml
   detection_source: pubspec.yaml
   last_updated_by: Faheem Ahmad
   last_updated_on: 2023-03-19 15:42:50.000000000 Z
@@ -99,6 +107,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Java Build Tools
   image_url: https://img.stackshare.io/service/2424/0UlUI_y1_400x400.jpg
+  detection_source_url: https://github.com/fisforfaheem/flutter_particle_clock
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -108,6 +117,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/fisforfaheem/flutter_particle_clock
   detection_source: Repo Metadata
 - name: Gradle
   description: A powerful build system for the JVM
@@ -118,6 +128,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Java Build Tools
   image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
+  detection_source_url: https://github.com/fisforfaheem/flutter_particle_clock/blob/master/android/app/build.gradle
   detection_source: android/app/build.gradle
   last_updated_by: Mickel
   last_updated_on: 2020-01-16 19:36:38.000000000 Z
@@ -130,7 +141,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Operating Systems
   image_url: https://img.stackshare.io/service/9586/ZvmtaSXW_400x400.jpg
-  detection_source_url: android/app/build.gradle
+  detection_source_url: https://github.com/fisforfaheem/flutter_particle_clock/blob/master/android/app/build.gradle
   detection_source: android/app/build.gradle
   last_updated_by: Mickel
   last_updated_on: 2020-01-16 19:36:38.000000000 Z
@@ -143,7 +154,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: pubspec.lock
+  detection_source_url: https://github.com/fisforfaheem/flutter_particle_clock/blob/master/pubspec.lock
   detection_source: pubspec.yaml
   last_updated_by: Faheem Ahmad
   last_updated_on: 2023-03-19 15:42:50.000000000 Z
@@ -155,6 +166,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fisforfaheem/flutter_particle_clock/blob/master/android/app/build.gradle
   detection_source: android/app/build.gradle
   last_updated_by: Mickel
   last_updated_on: 2020-01-16 19:36:38.000000000 Z
